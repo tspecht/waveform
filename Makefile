@@ -1,4 +1,4 @@
 CFLAGS = -Wall -O3
-LDLIBS = -lgroove -lz -lpng -pthread
+LDLIBS = -lgroove -lpng -lz -pthread
 
 waveform:
