@@ -1,4 +1,4 @@
-CFLAGS = -Wall -O3 -Wl,-Bstatic
+CFLAGS = -Wall -O3
 LDLIBS = -lgroove -lpng -lz -lGL -pthread
 
 waveform:
